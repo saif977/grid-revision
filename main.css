@@ -1,0 +1,38 @@
+.grid-cnt{
+    padding: 2rem;
+    background-color: aquamarine;
+
+    display: grid;
+    grid-template-rows: 150px 150px;
+    grid-template-columns: 150px 150px 150px ;
+    grid-gap:10px
+}
+
+.items--1{
+    background-color: red;
+}
+
+
+.items--2{
+    background-color: blue;
+}
+
+
+.items--3{
+    background-color: rgb(72, 255, 0);
+}
+
+
+.items--4{
+    background-color: rgb(68, 0, 255);
+}
+
+
+.items--5{
+    background-color: rgb(177, 54, 115);
+}
+
+
+.items--6{
+    background-color: rgb(153, 153, 153);
+}
